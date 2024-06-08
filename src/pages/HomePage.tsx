@@ -5,7 +5,6 @@ import Footer from "../ui/home/Footer";
 const HomePage = () => {
 	return (
 		<>
-			<h1>Home Page</h1>
 			<Navbar />
 
 			{/* You can put this main in a new component if you want */}
